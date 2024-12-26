@@ -10,5 +10,5 @@
 5. установить django: pip install django
 6. создать джанго-проект: django-admin startproject myapp и перейти в него
 7. скопировать в папку myapp файлы из этого репозитория: Dockerfile и docker-compose.yml
-8. запустить контейнер: docker-compose up build
+8. запустить контейнер: docker-compose up --build
 9. Проверить, что django запустился: открыть в браузере 127.0.0.1:8080
